@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/CMakeFiles/bootloader
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/CMakeFiles/bootloader.rule
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/CMakeFiles/bootloader-complete.rule
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/CacMonHoc/Nam3/NhungKhongDay/lab2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
